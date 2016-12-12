@@ -1,0 +1,104 @@
+[
+  {
+    "id": 1,
+    "Title": [
+
+              "Hi,I am sagar kale an",
+              "User Interface Developer Currently working at HMNY"
+            ],
+    "description": "I'M SPECIALIZED IN",
+     "images": [
+      {
+        "name": "back.jpg"
+      }
+     ]
+  },
+  {
+    "id": 2,
+    "name": "Web Development",
+    "description":[
+                    "I have gained a lot of experience designing and",
+                    "building many responsive websites. I have developed a",
+                    "personal approach to testing different solutions that",
+                    "has brought me to design mostly in the browser."
+                  ],
+
+      "images": [
+      {
+        "name": "Untitled.jpg"
+      }
+    ],
+    "soldOut": true
+  },
+  {
+    "id": 3,
+    "name": "Android App Development",
+    "description": [
+      "Talented Android Developer with over web development experience",
+      "Solid understanding of full mobile and software development life cycles",
+      "UIX, web analytics, changing web standards", "and Agile methodologies. Dedicated to continuously developing, implementing, and adopting new technologies to maximize development",
+      "efficiency and produce innovative applications."
+      ],
+    "images": [
+      {
+        "name": "Untitled1.png"
+      },
+      {
+        "name": "Android.png"
+      },
+      {
+        "name": "BigData.jpg"
+      },
+      {
+        "name": "heroku.jpg"
+      },
+      {
+        "name":"story.jpg"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Big DATA/MAP-REDUCE PROGRAMMING",
+    "description":  [
+       "Apache Hadoop framework",
+       "MapReduce pattern",
+       "Analyze big data application and apply MapReduce pattern",
+       "Apache Mahout machine learning library"
+    ],
+      "images": [
+      {
+        "name": "Untitled1.png"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Heroku",
+    "description":[
+            "Defining Applications",
+            "Deploying Applications",
+            "Configuring,logging and Monitoring",
+             "Heroku Postgres"
+        ],
+    "images": [
+      {
+        "name": "Untitled2.png"
+      }
+    ]
+  },
+  {
+    "id":6,
+    "name": "STORYTELLING",
+    "description": [
+      "I believe a story can be brought to life with the right",
+      "combination of copy, images and animation.",
+      "Every story deserves a unique approach to reach people in an engaging way."
+      ],
+    "images": [
+      {
+        "name": "Untitled2.png"
+      }
+    ]
+  }
+]
